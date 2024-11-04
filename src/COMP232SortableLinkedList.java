@@ -18,12 +18,4 @@ public class COMP232SortableLinkedList<E extends Comparable<E>> extends COMP232D
 		// Intentionally not implemented - see homework assignment.
 		throw new UnsupportedOperationException("Not yet implemented");
 	}
-
-	/**
-	 * Sort the linked list using an in-place, stable merge sort.
-	 */
-	public void mergeSortList() {
-		// Intentionally not implemented - see homework assignment.
-		throw new UnsupportedOperationException("Not yet implemented");
-	}
 }
